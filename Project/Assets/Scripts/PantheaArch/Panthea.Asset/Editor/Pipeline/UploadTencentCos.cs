@@ -26,8 +26,8 @@ namespace Panthea.Editor.Asset
                     .SetDebugLog(true)
                     .Build();
 
-            string secretId = "AKIDWo1BUZ6OxGK0ZxR9yXCbt68ubkdOmBU5";
-            string secretKey = "WGuTtALUKvUYM0Ok0WngKkeI2ZtwyFG9";
+            string secretId = "*****************************";
+            string secretKey = "*****************************";
             long durationSecond = 600; //每次请求签名有效时长，单位为秒
             QCloudCredentialProvider cosCredentialProvider = new DefaultQCloudCredentialProvider(secretId, secretKey, durationSecond);
             CosXml cosXml = new CosXmlServer(config, cosCredentialProvider);

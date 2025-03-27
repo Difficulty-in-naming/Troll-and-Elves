@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hotfix/1.0.0": {
+        "dependencies": {
+          "MemoryPack": "1.21.1"
+        },
+        "runtime": {
+          "Hotfix.dll": {}
+        }
+      },
+      "MemoryPack/1.21.1": {
+        "dependencies": {
+          "MemoryPack.Core": "1.21.1",
+          "MemoryPack.Generator": "1.21.1"
+        }
+      },
+      "MemoryPack.Core/1.21.1": {
+        "runtime": {
+          "lib/net8.0/MemoryPack.Core.dll": {
+            "assemblyVersion": "1.21.1.0",
+            "fileVersion": "1.21.1.0"
+          }
+        }
+      },
+      "MemoryPack.Generator/1.21.1": {}
+    }
+  },
+  "libraries": {
+    "Hotfix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemoryPack/1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ezalanS2gubWk1bS7S7onpU4fff42nr7EneRBOGOXWFC8qFFdmrBF+jznqVzg7buEPRJrSkwoXJFwuiHc1yvIA==",
+      "path": "memorypack/1.21.1",
+      "hashPath": "memorypack.1.21.1.nupkg.sha512"
+    },
+    "MemoryPack.Core/1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ekQ4rrlC9Tq/DwmK01oTlMQoyJyUtX4QVzfrLrp/9F39AeK1G3dqLJvOCdDttAUYMxoBrDSsK4tQlNaTiWVitA==",
+      "path": "memorypack.core/1.21.1",
+      "hashPath": "memorypack.core.1.21.1.nupkg.sha512"
+    },
+    "MemoryPack.Generator/1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kin3y4wUfzognJB2L8yVLekugeyFxsEWiqgsUcTWEMFumGHuklBtltI7AVdHcUNSFvycC98xdCNG8GauHfxv4Q==",
+      "path": "memorypack.generator/1.21.1",
+      "hashPath": "memorypack.generator.1.21.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLowerCase", "StringLowerCase\StringLowerCase.csproj", "{279008AD-42D0-4D29-8DE3-F11698751D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLowerCase.Test", "StringLowerCase.Test\StringLowerCase.Test.csproj", "{080FF11A-AC00-439F-86B4-0F0960833A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279008AD-42D0-4D29-8DE3-F11698751D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279008AD-42D0-4D29-8DE3-F11698751D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279008AD-42D0-4D29-8DE3-F11698751D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279008AD-42D0-4D29-8DE3-F11698751D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080FF11A-AC00-439F-86B4-0F0960833A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080FF11A-AC00-439F-86B4-0F0960833A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080FF11A-AC00-439F-86B4-0F0960833A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080FF11A-AC00-439F-86B4-0F0960833A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
