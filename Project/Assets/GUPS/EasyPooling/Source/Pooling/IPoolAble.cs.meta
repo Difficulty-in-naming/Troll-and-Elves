@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5162eb7ce6fec348b2dd5e8da159068
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Source/Pooling/IPoolAble.cs
+  uploadId: 740941

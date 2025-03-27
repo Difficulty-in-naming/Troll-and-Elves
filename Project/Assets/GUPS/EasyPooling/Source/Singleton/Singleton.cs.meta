@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 855eb4e1b7822d14fb835e45c56fa026
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Source/Singleton/Singleton.cs
+  uploadId: 740941

@@ -1,0 +1,970 @@
+{
+  "Durability": {
+    "Id": "Durability",
+    "Chinese": "耐久度"
+  },
+  "Damage": {
+    "Id": "Damage",
+    "Chinese": "伤害"
+  },
+  "Accuracy": {
+    "Id": "Accuracy",
+    "Chinese": "精准度"
+  },
+  "Recoil": {
+    "Id": "Recoil",
+    "Chinese": "后坐力"
+  },
+  "Ergonomics": {
+    "Id": "Ergonomics",
+    "Chinese": "人体工学"
+  },
+  "Bread": {
+    "Id": "Bread",
+    "Chinese": "面包"
+  },
+  "Rotten Bread": {
+    "Id": "Rotten Bread",
+    "Chinese": "发霉的面包"
+  },
+  "Crackers": {
+    "Id": "Crackers",
+    "Chinese": "饼干"
+  },
+  "Rotten Crackers": {
+    "Id": "Rotten Crackers",
+    "Chinese": "发霉的饼干"
+  },
+  "Canned beans": {
+    "Id": "Canned beans",
+    "Chinese": "豆罐头"
+  },
+  "Canned fish": {
+    "Id": "Canned fish",
+    "Chinese": "鱼罐头"
+  },
+  "Cheese": {
+    "Id": "Cheese",
+    "Chinese": "奶酪"
+  },
+  "Rotten Cheese": {
+    "Id": "Rotten Cheese",
+    "Chinese": "腐烂的奶酪"
+  },
+  "Chips": {
+    "Id": "Chips",
+    "Chinese": "薯片"
+  },
+  "MRE": {
+    "Id": "MRE",
+    "Chinese": "单兵口粮"
+  },
+  "Sandwich with meat": {
+    "Id": "Sandwich with meat",
+    "Chinese": "肉夹馍"
+  },
+  "Sandwich with slalami": {
+    "Id": "Sandwich with slalami",
+    "Chinese": "肉肠夹馍"
+  },
+  "Sandwich with butter": {
+    "Id": "Sandwich with butter",
+    "Chinese": "黄油三明治"
+  },
+  "Sandwich with wurstel": {
+    "Id": "Sandwich with wurstel",
+    "Chinese": "肉肠面包"
+  },
+  "Hamburger": {
+    "Id": "Hamburger",
+    "Chinese": "汉堡包"
+  },
+  "Pasta": {
+    "Id": "Pasta",
+    "Chinese": "意大利面"
+  },
+  "Cooked pasta": {
+    "Id": "Cooked pasta",
+    "Chinese": "煮过的意大利面"
+  },
+  "Stew with meat and beans": {
+    "Id": "Stew with meat and beans",
+    "Chinese": "豆子炖肉"
+  },
+  "Tushonka": {
+    "Id": "Tushonka",
+    "Chinese": "焖肉罐头"
+  },
+  "Raw meat": {
+    "Id": "Raw meat",
+    "Chinese": "生肉"
+  },
+  "Cooked meat": {
+    "Id": "Cooked meat",
+    "Chinese": "熟肉"
+  },
+  "Salami": {
+    "Id": "Salami",
+    "Chinese": "萨拉米香肠"
+  },
+  "Rotten salamai": {
+    "Id": "Rotten salamai",
+    "Chinese": "腐烂的香肠"
+  },
+  "Butter": {
+    "Id": "Butter",
+    "Chinese": "黄油"
+  },
+  "Meatballs": {
+    "Id": "Meatballs",
+    "Chinese": "肉丸"
+  },
+  "Egg": {
+    "Id": "Egg",
+    "Chinese": "蛋"
+  },
+  "Rotten egg": {
+    "Id": "Rotten egg",
+    "Chinese": "臭鸡蛋"
+  },
+  "Boiled egg": {
+    "Id": "Boiled egg",
+    "Chinese": "水煮蛋"
+  },
+  "Cooked egg": {
+    "Id": "Cooked egg",
+    "Chinese": "煎鸡蛋"
+  },
+  "Premium chocolate": {
+    "Id": "Premium chocolate",
+    "Chinese": "优质巧克力"
+  },
+  "Generic chocolate": {
+    "Id": "Generic chocolate",
+    "Chinese": "普通巧克力"
+  },
+  "Wurstel": {
+    "Id": "Wurstel",
+    "Chinese": "火腿肠"
+  },
+  "Bottle of water": {
+    "Id": "Bottle of water",
+    "Chinese": "瓶装水"
+  },
+  "Bottle of rotten water": {
+    "Id": "Bottle of rotten water",
+    "Chinese": "被污染的水"
+  },
+  "Generic cola": {
+    "Id": "Generic cola",
+    "Chinese": "可乐"
+  },
+  "Energy drink": {
+    "Id": "Energy drink",
+    "Chinese": "能量饮料"
+  },
+  "Fruit juice": {
+    "Id": "Fruit juice",
+    "Chinese": "果汁"
+  },
+  "Milk": {
+    "Id": "Milk",
+    "Chinese": "牛奶"
+  },
+  "Rotten milk": {
+    "Id": "Rotten milk",
+    "Chinese": "腐烂的牛奶"
+  },
+  "Cup of tea": {
+    "Id": "Cup of tea",
+    "Chinese": "一杯茶"
+  },
+  "Cup of coffee": {
+    "Id": "Cup of coffee",
+    "Chinese": "一杯咖啡"
+  },
+  "Red wine": {
+    "Id": "Red wine",
+    "Chinese": "红酒"
+  },
+  "Vodka": {
+    "Id": "Vodka",
+    "Chinese": "伏特加"
+  },
+  "Whisky": {
+    "Id": "Whisky",
+    "Chinese": "威士忌"
+  },
+  "Generic cigarette": {
+    "Id": "Generic cigarette",
+    "Chinese": "普通香烟"
+  },
+  "Premium cigarette": {
+    "Id": "Premium cigarette",
+    "Chinese": "高档香烟"
+  },
+  "Generic Medikit": {
+    "Id": "Generic Medikit",
+    "Chinese": "普通医疗包"
+  },
+  "Improvised Medikit": {
+    "Id": "Improvised Medikit",
+    "Chinese": "简易急救包"
+  },
+  "Standard Medikit": {
+    "Id": "Standard Medikit",
+    "Chinese": "标准急救包"
+  },
+  "Modern Medikit": {
+    "Id": "Modern Medikit",
+    "Chinese": "现代急救包"
+  },
+  "Bandage": {
+    "Id": "Bandage",
+    "Chinese": "绷带"
+  },
+  "Military bandage": {
+    "Id": "Military bandage",
+    "Chinese": "军用绷带"
+  },
+  "Sterilised bandage": {
+    "Id": "Sterilised bandage",
+    "Chinese": "消毒绷带"
+  },
+  "Anti Bleed Gel": {
+    "Id": "Anti Bleed Gel",
+    "Chinese": "抗出血凝胶"
+  },
+  "First Aid Medikit": {
+    "Id": "First Aid Medikit",
+    "Chinese": "急救医疗保"
+  },
+  "Professional Medikit": {
+    "Id": "Professional Medikit",
+    "Chinese": "专业医疗包"
+  },
+  "Anti-Rad Pills": {
+    "Id": "Anti-Rad Pills",
+    "Chinese": "抗辐射药片"
+  },
+  "Bloodsucker Injector": {
+    "Id": "Bloodsucker Injector",
+    "Chinese": "吸血鬼注射器"
+  },
+  "Endurance Booster Injector": {
+    "Id": "Endurance Booster Injector",
+    "Chinese": "耐力增强注射器"
+  },
+  "Body Fortifying Injector": {
+    "Id": "Body Fortifying Injector",
+    "Chinese": "身体强化注射器"
+  },
+  "Chow-Down Injector": {
+    "Id": "Chow-Down Injector",
+    "Chinese": "饱腹注射器"
+  },
+  "Rad Shield Injector": {
+    "Id": "Rad Shield Injector",
+    "Chinese": "辐射屏蔽注射器"
+  },
+  "Healing Stimulant Injector": {
+    "Id": "Healing Stimulant Injector",
+    "Chinese": "刺激治疗注射器"
+  },
+  "TooltipsRateOfFire": {
+    "Id": "TooltipsRateOfFire",
+    "Chinese": "射速:{0}"
+  },
+  "TooltipsMagazine": {
+    "Id": "TooltipsMagazine",
+    "Chinese": "弹匣容量:{0}"
+  },
+  "TooltipsCaliber": {
+    "Id": "TooltipsCaliber",
+    "Chinese": "子弹口径:{0}"
+  },
+  "TooltipsType": {
+    "Id": "TooltipsType",
+    "Chinese": "类型:{0}"
+  },
+  "TooltipsHunger": {
+    "Id": "TooltipsHunger",
+    "Chinese": "饱食度:{0}"
+  },
+  "TooltipsThirst": {
+    "Id": "TooltipsThirst",
+    "Chinese": "口渴度:{0}"
+  },
+  "TooltipsRadiation": {
+    "Id": "TooltipsRadiation",
+    "Chinese": "辐射代谢:{0}"
+  },
+  "TooltipsHealth": {
+    "Id": "TooltipsHealth",
+    "Chinese": "生命恢复:{0}"
+  },
+  "TooltipsFatigue": {
+    "Id": "TooltipsFatigue",
+    "Chinese": "精力恢复:{0}"
+  },
+  "TooltipsDuration": {
+    "Id": "TooltipsDuration",
+    "Chinese": "持续时间:{0}"
+  },
+  "TooltipsMoveSpeed": {
+    "Id": "TooltipsMoveSpeed",
+    "Chinese": "移动速度:{0}"
+  },
+  "TooltipsBleed": {
+    "Id": "TooltipsBleed",
+    "Chinese": "出血恢复:{0}"
+  },
+  "TooltipsBleedImmune": {
+    "Id": "TooltipsBleedImmune",
+    "Chinese": "免疫出血"
+  },
+  "TooltipsStamina": {
+    "Id": "TooltipsStamina",
+    "Chinese": "耐力恢复:{0}"
+  },
+  "TooltipsMaxStamina": {
+    "Id": "TooltipsMaxStamina",
+    "Chinese": "最大耐力:{0}"
+  },
+  "TooltipsHungerSpeed": {
+    "Id": "TooltipsHungerSpeed",
+    "Chinese": "饥饿速度:{0}"
+  },
+  "TooltipsThirstSpeed": {
+    "Id": "TooltipsThirstSpeed",
+    "Chinese": "口渴速度:{0}"
+  },
+  "TooltipsRadiationDefense": {
+    "Id": "TooltipsRadiationDefense",
+    "Chinese": "辐射抵抗:{0}"
+  },
+  "TooltipsPrice": {
+    "Id": "TooltipsPrice",
+    "Chinese": "售价:{0}"
+  },
+  "SniperRifle": {
+    "Id": "SniperRifle",
+    "Chinese": "狙击枪"
+  },
+  "AssaultRifles": {
+    "Id": "AssaultRifles",
+    "Chinese": "突击步枪"
+  },
+  "SubmachineGuns": {
+    "Id": "SubmachineGuns",
+    "Chinese": "冲锋枪"
+  },
+  "LightMachineGuns": {
+    "Id": "LightMachineGuns",
+    "Chinese": "轻机枪"
+  },
+  "Shotguns": {
+    "Id": "Shotguns",
+    "Chinese": "霰弹枪"
+  },
+  "School Bag": {
+    "Id": "School Bag",
+    "Chinese": "书包"
+  },
+  "Bulletproof vest": {
+    "Id": "Bulletproof vest",
+    "Chinese": "防弹背心"
+  },
+  "McMillan A5 Rifle Stock": {
+    "Id": "McMillan A5 Rifle Stock",
+    "Chinese": "McMillan A5 Rifle Stock"
+  },
+  "9x18mm PS": {
+    "Id": "9x18mm PS",
+    "Chinese": "9x18mm PS"
+  },
+  "9x18mm PBM": {
+    "Id": "9x18mm PBM",
+    "Chinese": "9x18mm PBM"
+  },
+  "9x19mm PSO": {
+    "Id": "9x19mm PSO",
+    "Chinese": "9x19mm PSO"
+  },
+  "9x19mm SUBSONIC": {
+    "Id": "9x19mm SUBSONIC",
+    "Chinese": "9x19mm SUBSONIC"
+  },
+  "9x19mm AP": {
+    "Id": "9x19mm AP",
+    "Chinese": "9x19mm AP"
+  },
+  "9x39mm SP-5": {
+    "Id": "9x39mm SP-5",
+    "Chinese": "9x39mm SP-5"
+  },
+  "9x39mm BP": {
+    "Id": "9x39mm BP",
+    "Chinese": "9x39mm BP"
+  },
+  "5.7x28mm R37": {
+    "Id": "5.7x28mm R37",
+    "Chinese": "5.7x28mm R37"
+  },
+  "5.7x28mm SUBSONIC": {
+    "Id": "5.7x28mm SUBSONIC",
+    "Chinese": "5.7x28mm SUBSONIC"
+  },
+  "5.7x28mm SS190": {
+    "Id": "5.7x28mm SS190",
+    "Chinese": "5.7x28mm SS190"
+  },
+  ".45 ACP": {
+    "Id": ".45 ACP",
+    "Chinese": ".45 ACP"
+  },
+  ".45 ACP SUBSONIC": {
+    "Id": ".45 ACP SUBSONIC",
+    "Chinese": ".45 ACP SUBSONIC"
+  },
+  ".45 ACP AP": {
+    "Id": ".45 ACP AP",
+    "Chinese": ".45 ACP AP"
+  },
+  "5.45x39mm PS": {
+    "Id": "5.45x39mm PS",
+    "Chinese": "5.45x39mm PS"
+  },
+  "5.45x39mm HP": {
+    "Id": "5.45x39mm HP",
+    "Chinese": "5.45x39mm HP"
+  },
+  "5.45x39mm SUBSONIC": {
+    "Id": "5.45x39mm SUBSONIC",
+    "Chinese": "5.45x39mm SUBSONIC"
+  },
+  "5.45x39mm BT": {
+    "Id": "5.45x39mm BT",
+    "Chinese": "5.45x39mm BT"
+  },
+  "5.56x45mm M855": {
+    "Id": "5.56x45mm M855",
+    "Chinese": "5.56x45mm M855"
+  },
+  "5.56x45mm HP": {
+    "Id": "5.56x45mm HP",
+    "Chinese": "5.56x45mm HP"
+  },
+  "5.56x45mm SUBSONIC": {
+    "Id": "5.56x45mm SUBSONIC",
+    "Chinese": "5.56x45mm SUBSONIC"
+  },
+  "5.56x45mm M995": {
+    "Id": "5.56x45mm M995",
+    "Chinese": "5.56x45mm M995"
+  },
+  "7.62x25mm FMJ": {
+    "Id": "7.62x25mm FMJ",
+    "Chinese": "7.62x25mm FMJ"
+  },
+  "7.62x25mm PST": {
+    "Id": "7.62x25mm PST",
+    "Chinese": "7.62x25mm PST"
+  },
+  "7.62x39mm PS": {
+    "Id": "7.62x39mm PS",
+    "Chinese": "7.62x39mm PS"
+  },
+  "7.62x39mm HP": {
+    "Id": "7.62x39mm HP",
+    "Chinese": "7.62x39mm HP"
+  },
+  "7.62x39mm SUBSONIC": {
+    "Id": "7.62x39mm SUBSONIC",
+    "Chinese": "7.62x39mm SUBSONIC"
+  },
+  "7.62x39mm BP": {
+    "Id": "7.62x39mm BP",
+    "Chinese": "7.62x39mm BP"
+  },
+  "7.62x51mm M80": {
+    "Id": "7.62x51mm M80",
+    "Chinese": "7.62x51mm M80"
+  },
+  "7.62x51mm FMJ": {
+    "Id": "7.62x51mm FMJ",
+    "Chinese": "7.62x51mm FMJ"
+  },
+  "7.62x51mm M61": {
+    "Id": "7.62x51mm M61",
+    "Chinese": "7.62x51mm M61"
+  },
+  "7.62x54Rmm PS": {
+    "Id": "7.62x54Rmm PS",
+    "Chinese": "7.62x54Rmm PS"
+  },
+  "7.62x54Rmm SNB": {
+    "Id": "7.62x54Rmm SNB",
+    "Chinese": "7.62x54Rmm SNB"
+  },
+  "12x70mm BUCKSHOT": {
+    "Id": "12x70mm BUCKSHOT",
+    "Chinese": "12x70mm BUCKSHOT"
+  },
+  "12x70mm SLUG": {
+    "Id": "12x70mm SLUG",
+    "Chinese": "12x70mm SLUG"
+  },
+  "12x70mm AP SLUG": {
+    "Id": "12x70mm AP SLUG",
+    "Chinese": "12x70mm AP SLUG"
+  },
+  "AK74U": {
+    "Id": "AK74U",
+    "Chinese": "AK74U"
+  },
+  "AK74": {
+    "Id": "AK74",
+    "Chinese": "AK74"
+  },
+  "AKM": {
+    "Id": "AKM",
+    "Chinese": "AKM"
+  },
+  "AS Val": {
+    "Id": "AS Val",
+    "Chinese": "AS Val"
+  },
+  "M4A1": {
+    "Id": "M4A1",
+    "Chinese": "M4A1"
+  },
+  "FAMAS F1": {
+    "Id": "FAMAS F1",
+    "Chinese": "FAMAS F1"
+  },
+  "SCAR L": {
+    "Id": "SCAR L",
+    "Chinese": "SCAR L"
+  },
+  "VSS VINTOREZ": {
+    "Id": "VSS VINTOREZ",
+    "Chinese": "VSS VINTOREZ"
+  },
+  "PKM": {
+    "Id": "PKM",
+    "Chinese": "PKM"
+  },
+  "Mosin Nagant": {
+    "Id": "Mosin Nagant",
+    "Chinese": "Mosin Nagant"
+  },
+  "SV98": {
+    "Id": "SV98",
+    "Chinese": "SV98"
+  },
+  "DVL10": {
+    "Id": "DVL10",
+    "Chinese": "DVL10"
+  },
+  "TOZ34": {
+    "Id": "TOZ34",
+    "Chinese": "TOZ34"
+  },
+  "MP133": {
+    "Id": "MP133",
+    "Chinese": "MP133"
+  },
+  "MP153": {
+    "Id": "MP153",
+    "Chinese": "MP153"
+  },
+  "SPAS12": {
+    "Id": "SPAS12",
+    "Chinese": "SPAS12"
+  },
+  "AA12": {
+    "Id": "AA12",
+    "Chinese": "AA12"
+  },
+  "Ammunition Wholesaler": {
+    "Id": "Ammunition Wholesaler",
+    "Chinese": "弹药批发商"
+  },
+  "Firearms Wholesaler": {
+    "Id": "Firearms Wholesaler",
+    "Chinese": "枪械批发商"
+  },
+  "Armor Wholesaler": {
+    "Id": "Armor Wholesaler",
+    "Chinese": "装甲批发商"
+  },
+  "Trade Wholesaler": {
+    "Id": "Trade Wholesaler",
+    "Chinese": "贸易批发商"
+  },
+  "Reload Bullet": {
+    "Id": "Reload Bullet",
+    "Chinese": "<bounce>换弹中</bounce>"
+  },
+  "No Match Bullet": {
+    "Id": "No Match Bullet",
+    "Chinese": "没有匹配的子弹"
+  },
+  "Fragrance": {
+    "Id": "Fragrance",
+    "Chinese": "香水"
+  },
+  "BraceletGold": {
+    "Id": "BraceletGold",
+    "Chinese": "金手镯"
+  },
+  "BraceletSilver": {
+    "Id": "BraceletSilver",
+    "Chinese": "银手镯"
+  },
+  "NecklaceGold": {
+    "Id": "NecklaceGold",
+    "Chinese": "金项链"
+  },
+  "WristwatchGold": {
+    "Id": "WristwatchGold",
+    "Chinese": "金手表"
+  },
+  "Wristwatch": {
+    "Id": "Wristwatch",
+    "Chinese": "手表"
+  },
+  "CrucifixGold": {
+    "Id": "CrucifixGold",
+    "Chinese": "金十字架"
+  },
+  "ZippoGold": {
+    "Id": "ZippoGold",
+    "Chinese": "金打火机"
+  },
+  "Money": {
+    "Id": "Money",
+    "Chinese": "钱"
+  },
+  "CookingPot": {
+    "Id": "CookingPot",
+    "Chinese": "炊锅"
+  },
+  "Fork": {
+    "Id": "Fork",
+    "Chinese": "叉子"
+  },
+  "Knife": {
+    "Id": "Knife",
+    "Chinese": "刀子"
+  },
+  "Spoon": {
+    "Id": "Spoon",
+    "Chinese": "勺子"
+  },
+  "Zippo": {
+    "Id": "Zippo",
+    "Chinese": "打火机"
+  },
+  "Matches": {
+    "Id": "Matches",
+    "Chinese": "火柴"
+  },
+  "Pepper": {
+    "Id": "Pepper",
+    "Chinese": "胡椒"
+  },
+  "Salt": {
+    "Id": "Salt",
+    "Chinese": "盐"
+  },
+  "ToiletPaper": {
+    "Id": "ToiletPaper",
+    "Chinese": "卫生纸"
+  },
+  "Battery": {
+    "Id": "Battery",
+    "Chinese": "电池"
+  },
+  "Bulb": {
+    "Id": "Bulb",
+    "Chinese": "灯泡"
+  },
+  "CarBattery": {
+    "Id": "CarBattery",
+    "Chinese": "车载电池"
+  },
+  "CPU": {
+    "Id": "CPU",
+    "Chinese": "处理器"
+  },
+  "DVDDriver": {
+    "Id": "DVDDriver",
+    "Chinese": "DVD驱动器"
+  },
+  "ElectricMotor": {
+    "Id": "ElectricMotor",
+    "Chinese": "电机"
+  },
+  "Fan": {
+    "Id": "Fan",
+    "Chinese": "风扇"
+  },
+  "GameStation": {
+    "Id": "GameStation",
+    "Chinese": "游戏机"
+  },
+  "GMCounter": {
+    "Id": "GMCounter",
+    "Chinese": "盖格计数器"
+  },
+  "HairDryer": {
+    "Id": "HairDryer",
+    "Chinese": "吹风机"
+  },
+  "HardDisk": {
+    "Id": "HardDisk",
+    "Chinese": "硬盘"
+  },
+  "MultiPlug": {
+    "Id": "MultiPlug",
+    "Chinese": "排插"
+  },
+  "MilitaryCircuit": {
+    "Id": "MilitaryCircuit",
+    "Chinese": "军事电路"
+  },
+  "GameBoy": {
+    "Id": "GameBoy",
+    "Chinese": "掌机"
+  },
+  "PowerBank": {
+    "Id": "PowerBank",
+    "Chinese": "充电宝"
+  },
+  "PowerOutlet": {
+    "Id": "PowerOutlet",
+    "Chinese": "电源插头"
+  },
+  "ScientificAnalyzer": {
+    "Id": "ScientificAnalyzer",
+    "Chinese": "科学分析仪"
+  },
+  "SparkPlug": {
+    "Id": "SparkPlug",
+    "Chinese": "火花塞"
+  },
+  "RAM": {
+    "Id": "RAM",
+    "Chinese": "内存条"
+  },
+  "Relay": {
+    "Id": "Relay",
+    "Chinese": "中继器"
+  },
+  "SSDDrive": {
+    "Id": "SSDDrive",
+    "Chinese": "固态硬盘"
+  },
+  "SmartPhone": {
+    "Id": "SmartPhone",
+    "Chinese": "智能手机"
+  },
+  "Wires": {
+    "Id": "Wires",
+    "Chinese": "电线"
+  },
+  "USB": {
+    "Id": "USB",
+    "Chinese": "USB"
+  },
+  "Alcohol": {
+    "Id": "Alcohol",
+    "Chinese": "酒精"
+  },
+  "BoltCutter": {
+    "Id": "BoltCutter",
+    "Chinese": "老虎钳"
+  },
+  "BugSpray": {
+    "Id": "BugSpray",
+    "Chinese": "杀虫剂"
+  },
+  "Drill": {
+    "Id": "Drill",
+    "Chinese": "钻头"
+  },
+  "DuctTape": {
+    "Id": "DuctTape",
+    "Chinese": "胶带"
+  },
+  "Dumbell": {
+    "Id": "Dumbell",
+    "Chinese": "哑铃"
+  },
+  "EngineOil": {
+    "Id": "EngineOil",
+    "Chinese": "机油"
+  },
+  "Hammer": {
+    "Id": "Hammer",
+    "Chinese": "锤子"
+  },
+  "Hose": {
+    "Id": "Hose",
+    "Chinese": "水管"
+  },
+  "HydrogenPeroxide": {
+    "Id": "HydrogenPeroxide",
+    "Chinese": "双氧水"
+  },
+  "MetalPipe": {
+    "Id": "MetalPipe",
+    "Chinese": "金属管"
+  },
+  "Nail": {
+    "Id": "Nail",
+    "Chinese": "钉子"
+  },
+  "Papers": {
+    "Id": "Papers",
+    "Chinese": "纸张"
+  },
+  "Pliers": {
+    "Id": "Pliers",
+    "Chinese": "尖嘴钳"
+  },
+  "PropaneTank": {
+    "Id": "PropaneTank",
+    "Chinese": "丙烷罐"
+  },
+  "Rope": {
+    "Id": "Rope",
+    "Chinese": "绳索"
+  },
+  "Screwdriver": {
+    "Id": "Screwdriver",
+    "Chinese": "螺丝刀"
+  },
+  "ScrewNut": {
+    "Id": "ScrewNut",
+    "Chinese": "螺母"
+  },
+  "Shampoo": {
+    "Id": "Shampoo",
+    "Chinese": "洗发水"
+  },
+  "Soap": {
+    "Id": "Soap",
+    "Chinese": "肥皂"
+  },
+  "TapeMeasure": {
+    "Id": "TapeMeasure",
+    "Chinese": "卷尺"
+  },
+  "Wheel": {
+    "Id": "Wheel",
+    "Chinese": "车轮"
+  },
+  "WhitePaint": {
+    "Id": "WhitePaint",
+    "Chinese": "白色油漆"
+  },
+  "Wrench": {
+    "Id": "Wrench",
+    "Chinese": "扳手"
+  },
+  "ScrapAmmo": {
+    "Id": "ScrapAmmo",
+    "Chinese": "废物弹药"
+  },
+  "ScrapFood": {
+    "Id": "ScrapFood",
+    "Chinese": "食物残渣"
+  },
+  "ScrapMeterial": {
+    "Id": "ScrapMeterial",
+    "Chinese": "废料"
+  },
+  "ScrapMedicine": {
+    "Id": "ScrapMedicine",
+    "Chinese": "废弃药品"
+  },
+  "ScrapArmor": {
+    "Id": "ScrapArmor",
+    "Chinese": "破碎的装甲"
+  },
+  "ScrapWeapon": {
+    "Id": "ScrapWeapon",
+    "Chinese": "破碎的武器"
+  },
+  "HunterA": {
+    "Id": "HunterA",
+    "Chinese": "猎人A"
+  },
+  "HunterB": {
+    "Id": "HunterB",
+    "Chinese": "猎人B"
+  },
+  "HunterC": {
+    "Id": "HunterC",
+    "Chinese": "猎人C"
+  },
+  "RobberA": {
+    "Id": "RobberA",
+    "Chinese": "强盗A"
+  },
+  "RobberB": {
+    "Id": "RobberB",
+    "Chinese": "强盗B"
+  },
+  "RobberC": {
+    "Id": "RobberC",
+    "Chinese": "强盗C"
+  },
+  "HireGunA": {
+    "Id": "HireGunA",
+    "Chinese": "雇佣兵A"
+  },
+  "HireGunB": {
+    "Id": "HireGunB",
+    "Chinese": "雇佣兵B"
+  },
+  "HireGunC": {
+    "Id": "HireGunC",
+    "Chinese": "雇佣兵C"
+  },
+  "BlackMarketeerA": {
+    "Id": "BlackMarketeerA",
+    "Chinese": "黑市商人A"
+  },
+  "BlackMarketeerB": {
+    "Id": "BlackMarketeerB",
+    "Chinese": "黑市商人B"
+  },
+  "BlackMarketeerC": {
+    "Id": "BlackMarketeerC",
+    "Chinese": "黑市商人C"
+  },
+  "WeaponBox": {
+    "Id": "WeaponBox",
+    "Chinese": "武器箱"
+  },
+  "ToolBox": {
+    "Id": "ToolBox",
+    "Chinese": "工具箱"
+  },
+  "MedicationBox": {
+    "Id": "MedicationBox",
+    "Chinese": "医疗箱"
+  },
+  "ElectionicBox": {
+    "Id": "ElectionicBox",
+    "Chinese": "电子箱"
+  },
+  "ArmorBox": {
+    "Id": "ArmorBox",
+    "Chinese": "装甲箱"
+  }
+}

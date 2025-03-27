@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2176b6bfcc49934d8f36fba3df74d0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287711
+  packageName: 'FishNet Pro: Networking Evolved'
+  packageVersion: 4.6.4R Pro
+  assetPath: Assets/FishNet/CodeGenerating/Processing/Rpc/CreatedRpc.cs
+  uploadId: 740951

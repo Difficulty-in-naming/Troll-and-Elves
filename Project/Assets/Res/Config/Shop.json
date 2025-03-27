@@ -1,0 +1,17 @@
+{
+  "Ammunition Wholesaler": {
+    "Id": "Ammunition Wholesaler",
+    "Content": "9x18mm PS:200,9x18mm PBM:200,9x19mm PSO:200,9x19mm SUBSONIC:200,9x19mm AP:200,9x39mm SP-5:200,9x39mm BP:200,5.7x28mm R37:200,5.7x28mm SUBSONIC:200,5.7x28mm SS190:200,.45 ACP:200,.45 ACP SUBSONIC:200,.45 ACP AP:200,5.45x39mm PS:200,5.45x39mm HP:200,5.45x39mm SUBSONIC:200,5.45x39mm BT:200,5.56x45mm M855:200,5.56x45mm HP:200,5.56x45mm SUBSONIC:200,5.56x45mm M995:200,7.62x25mm FMJ:200,7.62x25mm PST:200,7.62x39mm PS:200,7.62x39mm HP:200,7.62x39mm SUBSONIC:200,7.62x39mm BP:200,7.62x51mm M80:200,7.62x51mm FMJ:200,7.62x51mm M61:200,7.62x54Rmm PS:200,7.62x54Rmm SNB:200,12x70mm BUCKSHOT:200,12x70mm SLUG:200,12x70mm AP SLUG:200"
+  },
+  "Firearms Wholesaler": {
+    "Id": "Firearms Wholesaler",
+    "Content": "AK74U:1,AK74:1,AKM:1,AK101:1,AS Val:1,Groza 1:1,Groza 4:1,MK47:1,M4A1:1,FAMAS F1:1,G36:1,SCAR L:1,RPK 16:1,VSS VINTOREZ:1,AVT 40:1,ShaK 12:1,PKM:1,AK12:1,AK15:1,AK308:1,ADAR:1,Mosin Nagant:1,SV98:1,DVL10:1,Remington Model 700:1,Remington Model 700 PCR:1,TOZ66:1,TOZ34:1,MP133:1,MP153:1,SPAS12:1,Armsel Striker:1,AA12:1"
+  },
+  "Armor Wholesaler": {
+    "Id": "Armor Wholesaler"
+  },
+  "Trade Wholesaler": {
+    "Id": "Trade Wholesaler",
+    "Content": "Bread:100,Rotten Bread:100,Crackers:100,Rotten Crackers:100,Canned beans:100,Canned fish:100,Cheese:100,Rotten Cheese:100,Chips:100,MRE:100,Sandwich with meat:100,Sandwich with slalami:100,Sandwich with butter:100,Sandwich with wurstel:100,Hamburger:100,Pasta:100,Cooked pasta:100,Stew with meat and beans:100,Tushonka:100,Raw meat:100,Cooked meat:100,Salami:100,Rotten salamai:100,Butter:100,Meatballs:100,Egg:100,Rotten egg:100,Boiled egg:100,Cooked egg:100,Premium chocolate:100,Generic chocolate:100,Wurstel:100,Generic cigarette:100,Premium cigarette:100,Bottle of water:100,Bottle of rotten water:100,Generic cola:100,Energy drink:100,Fruit juice:100,Milk:100,Rotten milk:100,Cup of tea:100,Cup of coffee:100,Red wine:100,Vodka:100,Whisky:100"
+  }
+}

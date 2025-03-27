@@ -1,0 +1,4 @@
+{
+	"name": "EdgeStudio.Core.Editor",
+	"references":[ "GUID:4a1cb1490dc4df8409b2580d6b44e75e", "GUID:d9dbf313afb206f458581847ac758375", "GUID:151ffa7394ba57e499fb69568860d524" ]
+}

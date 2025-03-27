@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8399642101149000018
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1753556656038834217, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753556656038834217, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2720498978827112819, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_Name
+      value: MedicationBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 5607705028051693202, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: InputSystemAction.m_Reference
+      value: 
+      objectReference: {fileID: -35968698938717427, guid: df97acef304413c4e9254cd73ed1f7c1,
+        type: 3}
+    - target: {fileID: 5607705028051693202, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: InputSystemAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5993238478768557373, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: Id
+      value: MedicationBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7328268306130580704, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8911889023994664735, guid: 5fc230f1fad8e184b9ba2753b0fc1a73,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 72124e4144f7718408f9a505afe2e88b,
+        type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5fc230f1fad8e184b9ba2753b0fc1a73, type: 3}

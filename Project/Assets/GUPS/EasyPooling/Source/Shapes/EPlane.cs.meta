@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8442997d72e9ae74998b7474f80e31cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Source/Shapes/EPlane.cs
+  uploadId: 740941

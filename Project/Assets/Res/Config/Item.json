@@ -1,0 +1,3447 @@
+{
+  "AK74U": {
+    "Id": "AK74U",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/ak74u",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10000,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 14,
+      "Accuracy": 24,
+      "Recoil": 98,
+      "Ergonomics": 41,
+      "RateOfFire": 600,
+      "Magazine": 30,
+      "Caliber": "5.45x39mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.38,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "AK74": {
+    "Id": "AK74",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/ak74",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10001,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 17,
+      "Accuracy": 18,
+      "Recoil": 88,
+      "Ergonomics": 40,
+      "RateOfFire": 600,
+      "Magazine": 30,
+      "Caliber": "5.45x39mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.38,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "AKM": {
+    "Id": "AKM",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/akm",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10002,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 19,
+      "Accuracy": 17,
+      "Recoil": 114,
+      "Ergonomics": 35,
+      "RateOfFire": 600,
+      "Magazine": 30,
+      "Caliber": "7.62x39mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "AS Val": {
+    "Id": "AS Val",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/as val",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10004,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 17,
+      "Accuracy": 15,
+      "Recoil": 61,
+      "Ergonomics": 72,
+      "RateOfFire": 900,
+      "Magazine": 10,
+      "Caliber": "9x39mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "FAMAS F1": {
+    "Id": "FAMAS F1",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/famas f1",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10009,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 18,
+      "Accuracy": 16,
+      "Recoil": 80,
+      "Ergonomics": 72,
+      "RateOfFire": 900,
+      "Magazine": 20,
+      "Caliber": "5.56x45mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "SCAR L": {
+    "Id": "SCAR L",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/scar l",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10011,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 18,
+      "Accuracy": 13,
+      "Recoil": 106,
+      "Ergonomics": 50,
+      "RateOfFire": 600,
+      "Magazine": 30,
+      "Caliber": "5.56x45mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "VSS VINTOREZ": {
+    "Id": "VSS VINTOREZ",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/vss vintorez",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10013,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 27,
+      "Accuracy": 8,
+      "Recoil": 75,
+      "Ergonomics": 74,
+      "RateOfFire": 1200,
+      "Magazine": 10,
+      "Caliber": "9x39mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "PKM": {
+    "Id": "PKM",
+    "OccupiedOffsets": [
+      5,
+      2
+    ],
+    "Texture": "sprites/items/weapon/pkm",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10016,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 29,
+      "Accuracy": 45,
+      "Recoil": 110,
+      "Ergonomics": 25,
+      "RateOfFire": 600,
+      "Magazine": 100,
+      "Caliber": "7.62x54Rmm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "AssaultRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "Mosin Nagant": {
+    "Id": "Mosin Nagant",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/mosin nagant",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10021,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 52,
+      "Accuracy": 6,
+      "Recoil": 180,
+      "Ergonomics": 12,
+      "RateOfFire": 75,
+      "Magazine": 5,
+      "Caliber": "7.62x54Rmm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "SniperRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "SV98": {
+    "Id": "SV98",
+    "OccupiedOffsets": [
+      5,
+      2
+    ],
+    "Texture": "sprites/items/weapon/sv98",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10022,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 55,
+      "Accuracy": 3,
+      "Recoil": 168,
+      "Ergonomics": 33,
+      "RateOfFire": 75,
+      "Magazine": 5,
+      "Caliber": "7.62x54Rmm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "SniperRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "1.9,0.15",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "DVL10": {
+    "Id": "DVL10",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/dvl10",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10023,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 55,
+      "Accuracy": 2,
+      "Recoil": 140,
+      "Ergonomics": 50,
+      "RateOfFire": 60,
+      "Magazine": 5,
+      "Caliber": "7.62x51mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "SniperRifles",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "TOZ34": {
+    "Id": "TOZ34",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/toz34",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10027,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 50,
+      "Accuracy": 65,
+      "Recoil": 165,
+      "Ergonomics": 12,
+      "RateOfFire": 360,
+      "Magazine": 2,
+      "Caliber": "12x70mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "Shotguns",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "MP133": {
+    "Id": "MP133",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/mp133",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10028,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 51,
+      "Accuracy": 65,
+      "Recoil": 170,
+      "Ergonomics": 14,
+      "RateOfFire": 144,
+      "Magazine": 5,
+      "Caliber": "12x70mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "Shotguns",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "MP153": {
+    "Id": "MP153",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/mp153",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10029,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 53,
+      "Accuracy": 60,
+      "Recoil": 185,
+      "Ergonomics": 18,
+      "RateOfFire": 144,
+      "Magazine": 6,
+      "Caliber": "12x70mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "Shotguns",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "SPAS12": {
+    "Id": "SPAS12",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/weapon/spas12",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10030,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 50,
+      "Accuracy": 65,
+      "Recoil": 165,
+      "Ergonomics": 20,
+      "RateOfFire": 144,
+      "Magazine": 7,
+      "Caliber": "12x70mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "Shotguns",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "AA12": {
+    "Id": "AA12",
+    "OccupiedOffsets": [
+      4,
+      2
+    ],
+    "Texture": "sprites/items/weapon/aa12",
+    "Type": "Weapon",
+    "MaxStackNum": 1,
+    "Price": 10032,
+    "CanBeSold": true,
+    "WeaponArgs": {
+      "Damage": 50,
+      "Accuracy": 69,
+      "Recoil": 142,
+      "Ergonomics": 28,
+      "RateOfFire": 300,
+      "Magazine": 5,
+      "Caliber": "12x70mm",
+      "Stock": [
+        0,
+        0
+      ],
+      "Grip": [
+        0,
+        0
+      ],
+      "Barrel": [
+        0,
+        0
+      ],
+      "Handguard": [
+        0,
+        0
+      ],
+      "AmmoStorage": [
+        0,
+        0
+      ],
+      "Scope": [
+        0,
+        0
+      ],
+      "MuzzleBrake": [
+        0,
+        0
+      ],
+      "Accessory1": [
+        0,
+        0
+      ],
+      "Accessory2": null,
+      "Accessory3": null,
+      "Accessory4": null,
+      "Type": "Shotguns",
+      "BurstCount": 1,
+      "BurstBetweenShoot": "0.1",
+      "TriggerMode": "SemiAuto,Auto",
+      "ReloadTime": 2,
+      "AmmoConsumedPerShot": 1,
+      "ShootMovementMultiplier": "0.5",
+      "WeaponAttachmentOffset": "0.108,0",
+      "ProjectileSpawnOffset": "0.55,0.01",
+      "UsePrefab": "Gun",
+      "BulletSpeed": 600,
+      "ExtendView": 4,
+      "BulletPrefab": "暂时没用"
+    }
+  },
+  "McMillan A5 Rifle Stock": {
+    "Id": "McMillan A5 Rifle Stock",
+    "OccupiedOffsets": [
+      3,
+      1
+    ],
+    "Texture": "sprites/items/attachment/mcmillan a5 rifle stock",
+    "Type": "Attachment",
+    "MaxStackNum": 1,
+    "Price": 1000,
+    "CanBeSold": true
+  },
+  "Bread": {
+    "Id": "Bread",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/bread",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 10,
+      "Thirst": -3
+    }
+  },
+  "Rotten Bread": {
+    "Id": "Rotten Bread",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/rotten bread",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 5,
+      "Thirst": -5,
+      "Radiation": "0.15"
+    }
+  },
+  "Crackers": {
+    "Id": "Crackers",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/crackers",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 7,
+      "Thirst": -2
+    }
+  },
+  "Rotten Crackers": {
+    "Id": "Rotten Crackers",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/rotten crackers",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 3,
+      "Thirst": -3,
+      "Radiation": "0.09"
+    }
+  },
+  "Canned beans": {
+    "Id": "Canned beans",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/canned beans",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 13,
+      "Thirst": 10
+    }
+  },
+  "Canned fish": {
+    "Id": "Canned fish",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/canned fish",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 16,
+      "Thirst": 7
+    }
+  },
+  "Cheese": {
+    "Id": "Cheese",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/cheese",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 14,
+      "Thirst": 0
+    }
+  },
+  "Rotten Cheese": {
+    "Id": "Rotten Cheese",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/rotten cheese",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 6,
+      "Radiation": "0.12"
+    }
+  },
+  "Chips": {
+    "Id": "Chips",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/chips",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 11
+    }
+  },
+  "MRE": {
+    "Id": "MRE",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/food/mre",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 40,
+      "Thirst": 20
+    }
+  },
+  "Sandwich with meat": {
+    "Id": "Sandwich with meat",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/sandwich with meat",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 16
+    }
+  },
+  "Sandwich with slalami": {
+    "Id": "Sandwich with slalami",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/sandwich with slalami",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 13
+    }
+  },
+  "Sandwich with butter": {
+    "Id": "Sandwich with butter",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/sandwich with butter",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 12
+    }
+  },
+  "Sandwich with wurstel": {
+    "Id": "Sandwich with wurstel",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/sandwich with wurstel",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 13
+    }
+  },
+  "Hamburger": {
+    "Id": "Hamburger",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/hamburger",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 41
+    }
+  },
+  "Pasta": {
+    "Id": "Pasta",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/food/pasta",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 10,
+      "Thirst": -20
+    }
+  },
+  "Cooked pasta": {
+    "Id": "Cooked pasta",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/cooked pasta",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 23
+    }
+  },
+  "Stew with meat and beans": {
+    "Id": "Stew with meat and beans",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/stew with meat and beans",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 32,
+      "Thirst": 15
+    }
+  },
+  "Tushonka": {
+    "Id": "Tushonka",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/tushonka",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 18
+    }
+  },
+  "Raw meat": {
+    "Id": "Raw meat",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/raw meat",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 7,
+      "Thirst": -14,
+      "Radiation": "0.2"
+    }
+  },
+  "Cooked meat": {
+    "Id": "Cooked meat",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/cooked meat",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 23
+    }
+  },
+  "Butter": {
+    "Id": "Butter",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/butter",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 20,
+      "Thirst": -20
+    }
+  },
+  "Meatballs": {
+    "Id": "Meatballs",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/meatballs",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 17
+    }
+  },
+  "Egg": {
+    "Id": "Egg",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/egg",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 5,
+      "Thirst": 2
+    }
+  },
+  "Rotten egg": {
+    "Id": "Rotten egg",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/rotten egg",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 3,
+      "Radiation": "0.1"
+    }
+  },
+  "Boiled egg": {
+    "Id": "Boiled egg",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/boiled egg",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 11
+    }
+  },
+  "Cooked egg": {
+    "Id": "Cooked egg",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/cooked egg",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 18
+    }
+  },
+  "Premium chocolate": {
+    "Id": "Premium chocolate",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/premium chocolate",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 15,
+      "Fatigue": 8
+    }
+  },
+  "Generic chocolate": {
+    "Id": "Generic chocolate",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/generic chocolate",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 10,
+      "Fatigue": 5
+    }
+  },
+  "Wurstel": {
+    "Id": "Wurstel",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/wurstel",
+    "Type": "Food",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 13
+    }
+  },
+  "Generic cigarette": {
+    "Id": "Generic cigarette",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/generic cigarette",
+    "Type": "Food",
+    "MaxStackNum": 5,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": -3,
+      "Radiation": "-0.15"
+    }
+  },
+  "Premium cigarette": {
+    "Id": "Premium cigarette",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/food/premium cigarette",
+    "Type": "Food",
+    "MaxStackNum": 5,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": -4,
+      "Radiation": "-0.2"
+    }
+  },
+  "Bottle of water": {
+    "Id": "Bottle of water",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/bottle of water",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": 25,
+      "Radiation": "-0.05"
+    }
+  },
+  "Bottle of rotten water": {
+    "Id": "Bottle of rotten water",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/bottle of rotten water",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": 15,
+      "Radiation": "0.3"
+    }
+  },
+  "Generic cola": {
+    "Id": "Generic cola",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/generic cola",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 7,
+      "Thirst": 13,
+      "Fatigue": 8
+    }
+  },
+  "Energy drink": {
+    "Id": "Energy drink",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/drink/energy drink",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 16,
+      "Thirst": 15,
+      "Fatigue": 18
+    }
+  },
+  "Fruit juice": {
+    "Id": "Fruit juice",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/fruit juice",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 6,
+      "Thirst": 18
+    }
+  },
+  "Milk": {
+    "Id": "Milk",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/milk",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 8,
+      "Thirst": 18,
+      "Radiation": "-0.3",
+      "Fatigue": 10
+    }
+  },
+  "Rotten milk": {
+    "Id": "Rotten milk",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/rotten milk",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 5,
+      "Thirst": 10,
+      "Radiation": "0.35",
+      "Fatigue": 5
+    }
+  },
+  "Cup of tea": {
+    "Id": "Cup of tea",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/drink/cup of tea",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": 10,
+      "Radiation": "-0.19",
+      "Fatigue": 8
+    }
+  },
+  "Cup of coffee": {
+    "Id": "Cup of coffee",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/drink/cup of coffee",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Thirst": 5,
+      "Radiation": "-0.3",
+      "Fatigue": 13
+    }
+  },
+  "Red wine": {
+    "Id": "Red wine",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/red wine",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 13,
+      "Thirst": -8,
+      "Radiation": "-0.2"
+    }
+  },
+  "Vodka": {
+    "Id": "Vodka",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/vodka",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 23,
+      "Thirst": -17,
+      "Radiation": -1
+    }
+  },
+  "Whisky": {
+    "Id": "Whisky",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/drink/whisky",
+    "Type": "Drink",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": 14,
+      "Thirst": -22,
+      "Radiation": -2.3
+    }
+  },
+  "Generic Medikit": {
+    "Id": "Generic Medikit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/generic medikit",
+    "Type": "Medical",
+    "MaxStackNum": 3,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 50,
+      "Duration": 8,
+      "MoveSpeed": 0
+    }
+  },
+  "Improvised Medikit": {
+    "Id": "Improvised Medikit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/improvised medikit",
+    "Type": "Medical",
+    "MaxStackNum": 3,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 40,
+      "Duration": 3,
+      "MoveSpeed": "0.5"
+    }
+  },
+  "Standard Medikit": {
+    "Id": "Standard Medikit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/standard medikit",
+    "Type": "Medical",
+    "MaxStackNum": 2,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 60,
+      "Duration": 2,
+      "MoveSpeed": "0.5",
+      "Bleed": 1
+    }
+  },
+  "Modern Medikit": {
+    "Id": "Modern Medikit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/modern medikit",
+    "Type": "Medical",
+    "MaxStackNum": 2,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 100,
+      "Duration": 1,
+      "MoveSpeed": "0.5",
+      "Bleed": 1
+    }
+  },
+  "Bandage": {
+    "Id": "Bandage",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/bandage",
+    "Type": "Medical",
+    "MaxStackNum": 4,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Duration": 4,
+      "MoveSpeed": 1,
+      "Bleed": 1
+    }
+  },
+  "Military bandage": {
+    "Id": "Military bandage",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/military bandage",
+    "Type": "Medical",
+    "MaxStackNum": 2,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Duration": 4,
+      "MoveSpeed": "0.5",
+      "Bleed": 3
+    }
+  },
+  "Sterilised bandage": {
+    "Id": "Sterilised bandage",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/sterilised bandage",
+    "Type": "Medical",
+    "MaxStackNum": 2,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 15,
+      "Duration": 4,
+      "MoveSpeed": "0.5",
+      "Bleed": 1
+    }
+  },
+  "Anti Bleed Gel": {
+    "Id": "Anti Bleed Gel",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/anti bleed gel",
+    "Type": "Medical",
+    "MaxStackNum": 3,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Duration": "0.5",
+      "MoveSpeed": "0.5",
+      "Bleed": 2
+    }
+  },
+  "First Aid Medikit": {
+    "Id": "First Aid Medikit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/first aid medikit",
+    "Type": "Medical",
+    "MaxStackNum": 4,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 9999999,
+      "Duration": 10,
+      "MoveSpeed": 0,
+      "Bleed": 15
+    }
+  },
+  "Professional Medikit": {
+    "Id": "Professional Medikit",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/medical/professional medikit",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Health": 9999999,
+      "Duration": 12,
+      "MoveSpeed": 0,
+      "Bleed": 40
+    }
+  },
+  "Anti-Rad Pills": {
+    "Id": "Anti-Rad Pills",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/anti-rad pills",
+    "Type": "Medical",
+    "MaxStackNum": 4,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Radiation": "-0.5",
+      "Duration": 2
+    }
+  },
+  "Bloodsucker Injector": {
+    "Id": "Bloodsucker Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/bloodsucker injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Duration": 120,
+      "Bleed": 9999999,
+      "BleedImmune": "TRUE",
+      "HungerSpeed": "0.0417",
+      "ThirstSpeed": "0.0833"
+    }
+  },
+  "Endurance Booster Injector": {
+    "Id": "Endurance Booster Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/endurance booster injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": -10,
+      "Thirst": -10,
+      "Duration": 120,
+      "Stamina": "0.42",
+      "MaxStamina": 40,
+      "HungerSpeed": "0.0417",
+      "ThirstSpeed": "0.0625"
+    }
+  },
+  "Body Fortifying Injector": {
+    "Id": "Body Fortifying Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/body fortifying injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": -5,
+      "Thirst": -10,
+      "Duration": 120,
+      "Stamina": "-0.2917",
+      "MaxHp": 30,
+      "HungerSpeed": "0.0833",
+      "ThirstSpeed": "0.125"
+    }
+  },
+  "Chow-Down Injector": {
+    "Id": "Chow-Down Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/chow-down injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Duration": 120,
+      "HungerSpeed": -7.5,
+      "ThirstSpeed": -7.5
+    }
+  },
+  "Rad Shield Injector": {
+    "Id": "Rad Shield Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/rad shield injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Radiation": -1,
+      "Duration": 120,
+      "HungerSpeed": "0.1667",
+      "ThirstSpeed": "0.1667",
+      "RadiationDefense": 250
+    }
+  },
+  "Healing Stimulant Injector": {
+    "Id": "Healing Stimulant Injector",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/medical/healing stimulant injector",
+    "Type": "Medical",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "ConsumableArgs": {
+      "Hunger": -5,
+      "Thirst": -10,
+      "Health": 3,
+      "Duration": 120,
+      "HungerSpeed": "0.3333",
+      "ThirstSpeed": "0.5"
+    }
+  },
+  "School Bag": {
+    "Id": "School Bag",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/bag/school bag",
+    "Type": "Bag",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "EquipmentArgs": {
+      "BagGrid": 8
+    }
+  },
+  "Bulletproof vest": {
+    "Id": "Bulletproof vest",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/clothes/bulletproof vest",
+    "Type": "Clothes",
+    "MaxStackNum": 1,
+    "Price": 5000,
+    "CanBeSold": true,
+    "EquipmentArgs": {
+      "AbnormalDefense": 20,
+      "PhysicalDefense": 20,
+      "RadiationResistance": 20
+    }
+  },
+  "9x18mm PS": {
+    "Id": "9x18mm PS",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x18mm ps",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x18mm PBM": {
+    "Id": "9x18mm PBM",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x18mm pbm",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x19mm PSO": {
+    "Id": "9x19mm PSO",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x19mm pso",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x19mm SUBSONIC": {
+    "Id": "9x19mm SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x19mm subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x19mm AP": {
+    "Id": "9x19mm AP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x19mm ap",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x39mm SP-5": {
+    "Id": "9x39mm SP-5",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x39mm sp-5",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "9x39mm BP": {
+    "Id": "9x39mm BP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/9x39mm bp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.7x28mm R37": {
+    "Id": "5.7x28mm R37",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.7x28mm r37",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.7x28mm SUBSONIC": {
+    "Id": "5.7x28mm SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.7x28mm subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.7x28mm SS190": {
+    "Id": "5.7x28mm SS190",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.7x28mm ss190",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  ".45 ACP": {
+    "Id": ".45 ACP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/.45 acp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  ".45 ACP SUBSONIC": {
+    "Id": ".45 ACP SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/.45 acp subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  ".45 ACP AP": {
+    "Id": ".45 ACP AP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/.45 acp ap",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.45x39mm PS": {
+    "Id": "5.45x39mm PS",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.45x39mm ps",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.45x39mm HP": {
+    "Id": "5.45x39mm HP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.45x39mm hp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.45x39mm SUBSONIC": {
+    "Id": "5.45x39mm SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.45x39mm subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.45x39mm BT": {
+    "Id": "5.45x39mm BT",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.45x39mm bt",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.56x45mm M855": {
+    "Id": "5.56x45mm M855",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.56x45mm m855",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.56x45mm HP": {
+    "Id": "5.56x45mm HP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.56x45mm hp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.56x45mm SUBSONIC": {
+    "Id": "5.56x45mm SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.56x45mm subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "5.56x45mm M995": {
+    "Id": "5.56x45mm M995",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/5.56x45mm m995",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x25mm FMJ": {
+    "Id": "7.62x25mm FMJ",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x25mm fmj",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x25mm PST": {
+    "Id": "7.62x25mm PST",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x25mm pst",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x39mm PS": {
+    "Id": "7.62x39mm PS",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x39mm ps",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x39mm HP": {
+    "Id": "7.62x39mm HP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x39mm hp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x39mm SUBSONIC": {
+    "Id": "7.62x39mm SUBSONIC",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x39mm subsonic",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x39mm BP": {
+    "Id": "7.62x39mm BP",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x39mm bp",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x51mm M80": {
+    "Id": "7.62x51mm M80",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x51mm m80",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x51mm FMJ": {
+    "Id": "7.62x51mm FMJ",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x51mm fmj",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x51mm M61": {
+    "Id": "7.62x51mm M61",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x51mm m61",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x54Rmm PS": {
+    "Id": "7.62x54Rmm PS",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x54rmm ps",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "7.62x54Rmm SNB": {
+    "Id": "7.62x54Rmm SNB",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/7.62x54rmm snb",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "12x70mm BUCKSHOT": {
+    "Id": "12x70mm BUCKSHOT",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/12x70mm buckshot",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "12x70mm SLUG": {
+    "Id": "12x70mm SLUG",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/12x70mm slug",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "12x70mm AP SLUG": {
+    "Id": "12x70mm AP SLUG",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/ammo/12x70mm ap slug",
+    "Type": "Ammo",
+    "MaxStackNum": 300,
+    "Price": 5000,
+    "CanBeSold": true
+  },
+  "Fragrance": {
+    "Id": "Fragrance",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/fragrance",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 2200,
+    "CanBeSold": true
+  },
+  "BraceletGold": {
+    "Id": "BraceletGold",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/braceletgold",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1630,
+    "CanBeSold": true
+  },
+  "BraceletSilver": {
+    "Id": "BraceletSilver",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/braceletsilver",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 704,
+    "CanBeSold": true
+  },
+  "NecklaceGold": {
+    "Id": "NecklaceGold",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/necklacegold",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 3300,
+    "CanBeSold": true
+  },
+  "WristwatchGold": {
+    "Id": "WristwatchGold",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/wristwatchgold",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1496,
+    "CanBeSold": true
+  },
+  "Wristwatch": {
+    "Id": "Wristwatch",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/wristwatch",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 770,
+    "CanBeSold": true
+  },
+  "CrucifixGold": {
+    "Id": "CrucifixGold",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/crucifixgold",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 770,
+    "CanBeSold": true
+  },
+  "ZippoGold": {
+    "Id": "ZippoGold",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/zippogold",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 924,
+    "CanBeSold": true
+  },
+  "Money": {
+    "Id": "Money",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/money",
+    "Type": "Prop",
+    "MaxStackNum": 999,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "CookingPot": {
+    "Id": "CookingPot",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/cookingpot",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 40,
+    "CanBeSold": true
+  },
+  "Fork": {
+    "Id": "Fork",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/fork",
+    "Type": "Prop",
+    "MaxStackNum": 5,
+    "Price": 10,
+    "CanBeSold": true
+  },
+  "Knife": {
+    "Id": "Knife",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/knife",
+    "Type": "Prop",
+    "MaxStackNum": 5,
+    "Price": 10,
+    "CanBeSold": true
+  },
+  "Spoon": {
+    "Id": "Spoon",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/spoon",
+    "Type": "Prop",
+    "MaxStackNum": 5,
+    "Price": 10,
+    "CanBeSold": true
+  },
+  "Zippo": {
+    "Id": "Zippo",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/zippo",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 77,
+    "CanBeSold": true
+  },
+  "Matches": {
+    "Id": "Matches",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/matches",
+    "Type": "Prop",
+    "MaxStackNum": 5,
+    "Price": 9,
+    "CanBeSold": true
+  },
+  "Pepper": {
+    "Id": "Pepper",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/pepper",
+    "Type": "Prop",
+    "MaxStackNum": 10,
+    "Price": 3,
+    "CanBeSold": true
+  },
+  "Salt": {
+    "Id": "Salt",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/salt",
+    "Type": "Prop",
+    "MaxStackNum": 10,
+    "Price": 3,
+    "CanBeSold": true
+  },
+  "ToiletPaper": {
+    "Id": "ToiletPaper",
+    "OccupiedOffsets": [
+      2,
+      1
+    ],
+    "Texture": "sprites/items/prop/toiletpaper",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 220,
+    "CanBeSold": true
+  },
+  "Battery": {
+    "Id": "Battery",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/battery",
+    "Type": "Prop",
+    "MaxStackNum": 4,
+    "Price": 48,
+    "CanBeSold": true
+  },
+  "Bulb": {
+    "Id": "Bulb",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/bulb",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 40,
+    "CanBeSold": true
+  },
+  "CarBattery": {
+    "Id": "CarBattery",
+    "OccupiedOffsets": [
+      3,
+      2
+    ],
+    "Texture": "sprites/items/prop/carbattery",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1515,
+    "CanBeSold": true
+  },
+  "CPU": {
+    "Id": "CPU",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/cpu",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1616,
+    "CanBeSold": true
+  },
+  "DVDDriver": {
+    "Id": "DVDDriver",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/dvddriver",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 101,
+    "CanBeSold": true
+  },
+  "ElectricMotor": {
+    "Id": "ElectricMotor",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/electricmotor",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 3636,
+    "CanBeSold": true
+  },
+  "Fan": {
+    "Id": "Fan",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/fan",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 41,
+    "CanBeSold": true
+  },
+  "GameStation": {
+    "Id": "GameStation",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/gamestation",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 8080,
+    "CanBeSold": true
+  },
+  "GMCounter": {
+    "Id": "GMCounter",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/gmcounter",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 505,
+    "CanBeSold": true
+  },
+  "HairDryer": {
+    "Id": "HairDryer",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/hairdryer",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 162,
+    "CanBeSold": true
+  },
+  "HardDisk": {
+    "Id": "HardDisk",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/harddisk",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 172,
+    "CanBeSold": true
+  },
+  "MultiPlug": {
+    "Id": "MultiPlug",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/multiplug",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 50,
+    "CanBeSold": true
+  },
+  "MilitaryCircuit": {
+    "Id": "MilitaryCircuit",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/militarycircuit",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1818,
+    "CanBeSold": true
+  },
+  "GameBoy": {
+    "Id": "GameBoy",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/gameboy",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 5050,
+    "CanBeSold": true
+  },
+  "PowerBank": {
+    "Id": "PowerBank",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/powerbank",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 176,
+    "CanBeSold": true
+  },
+  "PowerOutlet": {
+    "Id": "PowerOutlet",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/poweroutlet",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 32,
+    "CanBeSold": true
+  },
+  "ScientificAnalyzer": {
+    "Id": "ScientificAnalyzer",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scientificanalyzer",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 505,
+    "CanBeSold": true
+  },
+  "SparkPlug": {
+    "Id": "SparkPlug",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/sparkplug",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 101,
+    "CanBeSold": true
+  },
+  "RAM": {
+    "Id": "RAM",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/ram",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1010,
+    "CanBeSold": true
+  },
+  "Relay": {
+    "Id": "Relay",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/relay",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 44,
+    "CanBeSold": true
+  },
+  "SSDDrive": {
+    "Id": "SSDDrive",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/ssddrive",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1313,
+    "CanBeSold": true
+  },
+  "SmartPhone": {
+    "Id": "SmartPhone",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/smartphone",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1414,
+    "CanBeSold": true
+  },
+  "Wires": {
+    "Id": "Wires",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/wires",
+    "Type": "Prop",
+    "MaxStackNum": 2,
+    "Price": 121,
+    "CanBeSold": true
+  },
+  "USB": {
+    "Id": "USB",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/usb",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 303,
+    "CanBeSold": true
+  },
+  "Alcohol": {
+    "Id": "Alcohol",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/alcohol",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 77,
+    "CanBeSold": true
+  },
+  "BoltCutter": {
+    "Id": "BoltCutter",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/boltcutter",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 33,
+    "CanBeSold": true
+  },
+  "BugSpray": {
+    "Id": "BugSpray",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/bugspray",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 88,
+    "CanBeSold": true
+  },
+  "Drill": {
+    "Id": "Drill",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/drill",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 440,
+    "CanBeSold": true
+  },
+  "DuctTape": {
+    "Id": "DuctTape",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/ducttape",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 18,
+    "CanBeSold": true
+  },
+  "Dumbell": {
+    "Id": "Dumbell",
+    "OccupiedOffsets": [
+      2,
+      1
+    ],
+    "Texture": "sprites/items/prop/dumbell",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 264,
+    "CanBeSold": true
+  },
+  "EngineOil": {
+    "Id": "EngineOil",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/engineoil",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 308,
+    "CanBeSold": true
+  },
+  "Hammer": {
+    "Id": "Hammer",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/hammer",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 15,
+    "CanBeSold": true
+  },
+  "Hose": {
+    "Id": "Hose",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/hose",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 88,
+    "CanBeSold": true
+  },
+  "HydrogenPeroxide": {
+    "Id": "HydrogenPeroxide",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/hydrogenperoxide",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 154,
+    "CanBeSold": true
+  },
+  "MetalPipe": {
+    "Id": "MetalPipe",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/metalpipe",
+    "Type": "Prop",
+    "MaxStackNum": 4,
+    "Price": 13,
+    "CanBeSold": true
+  },
+  "Nail": {
+    "Id": "Nail",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/nail",
+    "Type": "Prop",
+    "MaxStackNum": 25,
+    "Price": 4,
+    "CanBeSold": true
+  },
+  "Papers": {
+    "Id": "Papers",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/papers",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 29,
+    "CanBeSold": true
+  },
+  "Pliers": {
+    "Id": "Pliers",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/pliers",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 22,
+    "CanBeSold": true
+  },
+  "PropaneTank": {
+    "Id": "PropaneTank",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/propanetank",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 1100,
+    "CanBeSold": true
+  },
+  "Rope": {
+    "Id": "Rope",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/rope",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 132,
+    "CanBeSold": true
+  },
+  "Screwdriver": {
+    "Id": "Screwdriver",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/screwdriver",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 22,
+    "CanBeSold": true
+  },
+  "ScrewNut": {
+    "Id": "ScrewNut",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/screwnut",
+    "Type": "Prop",
+    "MaxStackNum": 15,
+    "Price": 6,
+    "CanBeSold": true
+  },
+  "Shampoo": {
+    "Id": "Shampoo",
+    "OccupiedOffsets": [
+      1,
+      2
+    ],
+    "Texture": "sprites/items/prop/shampoo",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 275,
+    "CanBeSold": true
+  },
+  "Soap": {
+    "Id": "Soap",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/soap",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 121,
+    "CanBeSold": true
+  },
+  "TapeMeasure": {
+    "Id": "TapeMeasure",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/tapemeasure",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 24,
+    "CanBeSold": true
+  },
+  "Wheel": {
+    "Id": "Wheel",
+    "OccupiedOffsets": [
+      2,
+      2
+    ],
+    "Texture": "sprites/items/prop/wheel",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 770,
+    "CanBeSold": true
+  },
+  "WhitePaint": {
+    "Id": "WhitePaint",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/whitepaint",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 88,
+    "CanBeSold": true
+  },
+  "Wrench": {
+    "Id": "Wrench",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/wrench",
+    "Type": "Prop",
+    "MaxStackNum": 1,
+    "Price": 18,
+    "CanBeSold": true
+  },
+  "ScrapAmmo": {
+    "Id": "ScrapAmmo",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scrapammo",
+    "Type": "Prop",
+    "MaxStackNum": 100,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "ScrapFood": {
+    "Id": "ScrapFood",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scrapfood",
+    "Type": "Prop",
+    "MaxStackNum": 20,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "ScrapMeterial": {
+    "Id": "ScrapMeterial",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scrapmeterial",
+    "Type": "Prop",
+    "MaxStackNum": 50,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "ScrapMedicine": {
+    "Id": "ScrapMedicine",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scrapmedicine",
+    "Type": "Prop",
+    "MaxStackNum": 20,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "ScrapArmor": {
+    "Id": "ScrapArmor",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scraparmor",
+    "Type": "Prop",
+    "MaxStackNum": 40,
+    "Price": 1,
+    "CanBeSold": true
+  },
+  "ScrapWeapon": {
+    "Id": "ScrapWeapon",
+    "OccupiedOffsets": [
+      1,
+      1
+    ],
+    "Texture": "sprites/items/prop/scrapweapon",
+    "Type": "Prop",
+    "MaxStackNum": 50,
+    "Price": 1,
+    "CanBeSold": true
+  }
+}

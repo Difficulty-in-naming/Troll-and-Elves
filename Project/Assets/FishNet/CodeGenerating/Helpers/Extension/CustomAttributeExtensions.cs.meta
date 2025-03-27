@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a66d771ab331fae408142a5c04abd74e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287711
+  packageName: 'FishNet Pro: Networking Evolved'
+  packageVersion: 4.6.4R Pro
+  assetPath: Assets/FishNet/CodeGenerating/Helpers/Extension/CustomAttributeExtensions.cs
+  uploadId: 740951

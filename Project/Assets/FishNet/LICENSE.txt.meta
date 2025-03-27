@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83c5a6d0014103d48a0028f0ab7fec8d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287711
+  packageName: 'FishNet Pro: Networking Evolved'
+  packageVersion: 4.6.4R Pro
+  assetPath: Assets/FishNet/LICENSE.txt
+  uploadId: 740951

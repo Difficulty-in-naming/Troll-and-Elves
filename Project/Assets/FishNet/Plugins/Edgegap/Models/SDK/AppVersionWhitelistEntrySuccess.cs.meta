@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2fd2776b60ac941479df7e8dd021993e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287711
+  packageName: 'FishNet Pro: Networking Evolved'
+  packageVersion: 4.6.4R Pro
+  assetPath: Assets/FishNet/Plugins/Edgegap/Models/SDK/AppVersionWhitelistEntrySuccess.cs
+  uploadId: 740951

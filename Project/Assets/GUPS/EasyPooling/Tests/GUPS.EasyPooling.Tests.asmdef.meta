@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2392b69b5d09bd24480a8f4acc00c1f2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Tests/GUPS.EasyPooling.Tests.asmdef
+  uploadId: 740941

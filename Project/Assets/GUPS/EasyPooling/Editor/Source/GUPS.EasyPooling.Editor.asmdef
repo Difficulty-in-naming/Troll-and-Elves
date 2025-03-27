@@ -1,0 +1,18 @@
+{
+    "name": "GUPS.EasyPooling.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:386f04668e286d246ada66d8b90dd709"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

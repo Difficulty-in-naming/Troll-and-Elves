@@ -1,0 +1,34 @@
+{
+  "DefaultBagGrid": {
+    "Id": "DefaultBagGrid",
+    "Value": "36"
+  },
+  "DefaultBagItem": {
+    "Id": "DefaultBagItem",
+    "Value": "\"School Bag:1,5.45x39mm PS:180,AK74U:1,SV98:1\""
+  },
+  "PlayerDefaultHp": {
+    "Id": "PlayerDefaultHp",
+    "Value": "100"
+  },
+  "PlayerDefaultAttack": {
+    "Id": "PlayerDefaultAttack",
+    "Value": "0"
+  },
+  "PlayerDefaultDefense": {
+    "Id": "PlayerDefaultDefense",
+    "Value": "0"
+  },
+  "MaxSpread": {
+    "Id": "MaxSpread",
+    "Value": "10,10"
+  },
+  "RecoilPerShoot": {
+    "Id": "RecoilPerShoot",
+    "Value": "0.3"
+  },
+  "AccuracyMultiplier": {
+    "Id": "AccuracyMultiplier",
+    "Value": "30"
+  }
+}

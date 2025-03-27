@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91923d5960c9b2b4db3c360987c92315
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Editor/Source/Property/BlueprintPoolDefinitionPropertyDrawer.cs
+  uploadId: 740941

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2fad5f3f0694fc40a1ff614e8bf23ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Source/Policy/Random/PerlinNoiseRandom.cs
+  uploadId: 740941

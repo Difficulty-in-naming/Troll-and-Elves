@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f5527790c602a447b437079b9262a90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287711
+  packageName: 'FishNet Pro: Networking Evolved'
+  packageVersion: 4.6.4R Pro
+  assetPath: Assets/FishNet/Runtime/Serializing/GenericDeltaWriter.cs
+  uploadId: 740951

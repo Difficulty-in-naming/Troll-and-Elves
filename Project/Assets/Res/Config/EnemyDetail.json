@@ -1,0 +1,98 @@
+{
+  "HunterA": {
+    "Id": "HunterA",
+    "Name": "HunterA",
+    "Weapon": "AK74U",
+    "Armor": "Bulletproof vest",
+    "Hp": 60,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "HunterB": {
+    "Id": "HunterB",
+    "Name": "HunterB",
+    "Weapon": "AK74",
+    "Armor": "Bulletproof vest",
+    "Hp": 60,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "HunterC": {
+    "Id": "HunterC",
+    "Name": "HunterC",
+    "Weapon": "TOZ34",
+    "Armor": "Bulletproof vest",
+    "Hp": 60,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "RobberA": {
+    "Id": "RobberA",
+    "Name": "RobberA",
+    "Weapon": "AK74U",
+    "Armor": "Bulletproof vest",
+    "Hp": 100,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "RobberB": {
+    "Id": "RobberB",
+    "Name": "RobberB",
+    "Weapon": "AK74",
+    "Armor": "Bulletproof vest",
+    "Hp": 100,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "RobberC": {
+    "Id": "RobberC",
+    "Name": "RobberC",
+    "Weapon": "TOZ34",
+    "Armor": "Bulletproof vest",
+    "Hp": 100,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "HireGunA": {
+    "Id": "HireGunA",
+    "Name": "HireGunA",
+    "Weapon": "AK74U",
+    "Armor": "Bulletproof vest",
+    "Hp": 150,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "HireGunB": {
+    "Id": "HireGunB",
+    "Name": "HireGunB",
+    "Weapon": "AK74",
+    "Armor": "Bulletproof vest",
+    "Hp": 150,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "HireGunC": {
+    "Id": "HireGunC",
+    "Name": "HireGunC",
+    "Weapon": "TOZ34",
+    "Armor": "Bulletproof vest",
+    "Hp": 150,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "BlackMarketeerA": {
+    "Id": "BlackMarketeerA",
+    "Name": "BlackMarketeerA",
+    "Weapon": "AK74U",
+    "Armor": "Bulletproof vest",
+    "Hp": 200,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "BlackMarketeerB": {
+    "Id": "BlackMarketeerB",
+    "Name": "BlackMarketeerB",
+    "Weapon": "AK74",
+    "Armor": "Bulletproof vest",
+    "Hp": 200,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  },
+  "BlackMarketeerC": {
+    "Id": "BlackMarketeerC",
+    "Name": "BlackMarketeerC",
+    "Weapon": "TOZ34",
+    "Armor": "Bulletproof vest",
+    "Hp": 200,
+    "SpriteLibrary": "sprites/characters/armsdealer/library"
+  }
+}

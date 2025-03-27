@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad1b1d3aa71f352469a4535bf303ea2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Tests/GlobalPoolTests.cs
+  uploadId: 740941

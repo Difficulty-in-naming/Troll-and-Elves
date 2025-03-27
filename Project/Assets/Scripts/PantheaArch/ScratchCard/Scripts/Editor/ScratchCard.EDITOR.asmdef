@@ -1,0 +1,18 @@
+{
+    "name": "ScratchCard.EDITOR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15b23666b9fd6b94b862aa26c826db0e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91f7067564f1afc4580f71a91c535f4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Tests/Mock/MyDecorator.cs
+  uploadId: 740941

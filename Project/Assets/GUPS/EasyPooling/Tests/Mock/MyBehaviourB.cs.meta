@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4fc45d25481190e4e989e8d8412ca37d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275545
+  packageName: EasyPooling - 2025
+  packageVersion: 2025.1
+  assetPath: Assets/GUPS/EasyPooling/Tests/Mock/MyBehaviourB.cs
+  uploadId: 740941
